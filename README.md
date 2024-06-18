@@ -9,10 +9,6 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://cyanz.vercel.app](https://cyanz.vercel.app)
-
-- 📫 How to reach me **johanse.linares@gmail.com**
-
 - ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
