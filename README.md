@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Johan E. Sierra Linares</h1>
+<h1 align="center">Hi 👋, I'm Johan Sierra</h1>
 <h3 align="center">A passionate frontend developer from Dominic Republic</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xlcyanz&label=Profile%20views&color=0e75b6&style=flat" alt="xlcyanz" /> </p>
