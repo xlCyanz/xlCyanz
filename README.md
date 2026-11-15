@@ -1,25 +1,117 @@
-<h1 align="center">Hi 👋, I'm Johan Sierra</h1>
-<h3 align="center">A passionate frontend developer from Dominic Republic</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xlcyanz&label=Profile%20views&color=0e75b6&style=flat" alt="xlcyanz" /> </p>
+# Hi 👋, I'm Johan Sierra
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xlcyanz" alt="xlcyanz" /></a> </p>
+### Frontend / Fullstack Developer · React · Next.js · TypeScript
 
-- 🔭 I’m currently working on **my own projects**
+📍 Dominican Republic
 
-- 🌱 I’m currently learning **React Native**
+<a href="https://xlcyanz.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/xlcyanz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:johanse.linares@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-- ⚡ Fun fact **I think I'm funny**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/xlcyanz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xlcyanz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/xlcyanz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xlcyanz" height="30" width="40" /></a>
+---
+
+## 🙋‍♂️ About me
+
+Software developer with **3 years of professional experience** building internal web applications and **financial systems** for clients. My core is the frontend with **React, TypeScript and TailwindCSS**, and I'm comfortable on the backend (GraphQL, Node.js, MongoDB, PostgreSQL) and shipping to production with **Docker**.
+
+I enjoy building products end to end, solving technical problems and **helping other developers grow** by mentoring new team members and interns.
+
+- 🔭 Building desktop apps with **Tauri 2 + React + Rust**
+- 🤖 Daily driver: **Claude Code** for agentic development
+- 🌱 Growing toward technical leadership and mentoring
+
+---
+
+## 🛠️ Tech stack
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" alt="Frontend" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+**Backend & databases**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xlcyanz&show_icons=true&locale=en" alt="xlcyanz" /></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql,prisma,postgres,mongodb,redis" alt="Backend" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xlcyanz&" alt="xlcyanz" /></p>
+**DevOps & tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel" alt="DevOps" />
+</p>
+
+**Exploring**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=rust,go" alt="Exploring" />
+</p>
+
+<details>
+<summary>More libraries and tools</summary>
+
+**UI & data:** Shadcn/ui · TanStack Query · React Hook Form · Zod<br />
+**Backend:** Apollo · Mongoose · Socket.io · Strapi · Koa<br />
+**Mobile & monorepo:** React Native · Expo · Turborepo · pnpm<br />
+**Quality & tooling:** Vitest · ESLint · Prettier · Husky · Claude Code
+
+</details>
+
+---
+
+## 🚀 Featured project
+
+### 🎵 [Cantoral](https://github.com/xlCyanz/cantoral)
+
+Desktop app for church worship teams: catalog your music library, build the setlist for each service, play it from a single control bar and send videos to the projector while audio stays on the sound system. Fully local and offline, it never moves or copies your files, it only indexes them. Runs on **macOS and Windows**.
+
+<p>
+  <img src="https://img.shields.io/badge/Tauri-2-24C8DB?logo=tauri&logoColor=white" alt="Tauri 2" />
+  <img src="https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black" alt="React 19" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust" />
+  <a href="https://github.com/xlCyanz/cantoral/releases/latest"><img src="https://img.shields.io/github/v/release/xlCyanz/cantoral?display_name=tag&sort=semver&label=release&color=3A4D8F" alt="Latest release" /></a>
+</p>
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xlCyanz&theme=github_dark" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xlCyanz&theme=github" alt="Profile details" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xlCyanz&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xlCyanz&theme=github" alt="Stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xlCyanz&theme=github_dark&utcOffset=-4" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xlCyanz&theme=github&utcOffset=-4" alt="Productive time" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xlCyanz&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xlCyanz&theme=github" alt="Top languages by commit" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xlCyanz&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xlCyanz&theme=github" alt="Top languages by repo" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=xlCyanz&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=xlCyanz&hide_border=true" alt="Contribution streak" />
+</picture>
+
+<img src="https://komarev.com/ghpvc/?username=xlcyanz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+</div>
